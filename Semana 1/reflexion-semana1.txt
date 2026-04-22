@@ -1,0 +1,10 @@
+El uso responsable de la información en internet, la participación ciudadana y 
+la organización técnica del trabajo con herramientas como git se articulan en 
+torno a un principio común: la memoria como condición ética de la acción colectiva. 
+Git permite registrar cada cambio, identificar su autor y revertirlo si es necesario; 
+esto mismo exige una ciudadanía digital responsable al compartir información: 
+verificar fuentes, asumir autoría y corregir el error. La participación ciudadana, 
+por su parte, no es sino la deliberación pública con fundamentos, donde el respeto 
+por el turno y la palabra ajena opera como un protocolo colaborativo análogo al 
+de un repositorio compartido. Sin orden, sin rendición de cuentas y sin memoria de lo actuado, 
+tanto el código como la convivencia social derivan en caos y desconfianza.
