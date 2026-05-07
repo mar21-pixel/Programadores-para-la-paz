@@ -1,0 +1,8 @@
+Dominar la terminal para navegar y organizar archivos es importante
+porque representa el acceso directo al sistema sin intermediarios visuales. 
+Para un desarrollador, esto se traduce en velocidad, 
+precisión y control sobre el proyecto. Además, tener este 
+conocimiento permite el manejo de diferentes herramientas 
+que se basan en el uso de la terminal, como git, servidores locales, 
+compiladores o gestores de paquetes. Al tener conocimiento básico en 
+el uso de la terminal, se logra orden, autonomía y solidez en el trabajo.
