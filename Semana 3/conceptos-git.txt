@@ -1,0 +1,7 @@
+Repositorio: espacio en donde se crea un proyecto el cual contines archivos y carpetas,
+tambien queda registro de todos los cambios realizados sobre este.
+
+Commit: Registro en donde se guardan las modificación y posterior se suben los cambios
+realizados sobre el proyecto normalmente llevan una descripcion de lo realizado.
+
+Push: Accion que permite subir el commit desde un lugar local hasta la nube

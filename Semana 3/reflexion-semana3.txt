@@ -1,0 +1,10 @@
+
+Para mí, mantener un registro de cambios con Git es como llevar un diario detallado de 
+todo lo que voy haciendo en mi proyecto. Anoto qué cambié, cuándo lo hice y por qué. 
+Si en algún momento algo sale mal, puedo volver a una versión que sí funcionaba, 
+sin tener que rehacer todo desde cero. Cuando trabajo con otras personas,
+Git evita que nos pisemos los cambios sin querer, porque cada uno tiene su rama y
+luego combinamos el trabajo ordenadamente. Además, si alguien nuevo se une al equipo, 
+puede leer ese diario y entender rápido cómo ha evolucionado el proyecto. También me 
+permite poner etiquetas a las versiones importantes que ya lancé, como si fueran marcadores. 
+En definitiva, tener ese historial me da tranquilidad, control y me ahorra muchísimos dolores de cabeza.
