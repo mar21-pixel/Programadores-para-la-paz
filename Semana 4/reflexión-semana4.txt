@@ -1,0 +1,10 @@
+Creo que es muy importante que las comunidades y los ciudadanos puedan crear sus propias 
+herramientas tecnológicas usando tecnologías abiertas como Node.js. De esta manera, no 
+tienen que depender siempre de grandes empresas para resolver sus problemas o necesidades. 
+Además, cualquier persona interesada puede aprender cómo funcionan estas herramientas y 
+aportar nuevas ideas para mejorarlas. También es una buena forma de ahorrar recursos, ya 
+que no se necesitan licencias costosas para utilizarlas. Me parece que esto fomenta la 
+creatividad, el trabajo en equipo y el aprendizaje dentro de la comunidad. Cuando las personas 
+desarrollan sus propias soluciones, estas suelen adaptarse mejor a la realidad que 
+viven día a día. Por otro lado, se fortalece la independencia tecnológica y 
+el control sobre la información que manejan.
