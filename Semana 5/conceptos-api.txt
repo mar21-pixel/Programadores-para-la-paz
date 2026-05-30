@@ -1,0 +1,10 @@
+¿Qué hace esta ruta?
+
+Por la ruta Post/ recibe la información que envio el usuario, en este caso al recibir esta información
+esta responde al usuario que recibo el reporte correctamenta junto a la informacion enviada anteriormente.
+
+¿Para qué podría servir en una aplicación comunitaria?
+
+Podría servir para que las personas reporten sus problemas o situaciones de su comunidad, 
+por ejemplo una calle dañada, basura acumulada, una luminaria que no funciona o levantar alertas. 
+La aplicación recibiría esos reportes para que puedan ser revisados y atendidos.

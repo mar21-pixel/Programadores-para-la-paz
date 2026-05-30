@@ -1,0 +1,8 @@
+Ruta: http://localhost:3000/
+Me muestra "Servidor activo", lo que significa que esta funcionando bien
+
+Ruta: http://localhost:3000/saludo
+Me muestra el mensaje "Hola comunidad".
+
+Ruta: http://localhost:3000/mensaje/Juan
+Me muestra el mensaje "Hola Juan". nombre que enviamos por parametro en la URL
