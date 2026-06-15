@@ -1,0 +1,4 @@
+{
+  "tipo": "Calle pública",
+  "descripcion": "La comunidad reporta que hay huecos en la calle principal desde hace varios meses."
+}

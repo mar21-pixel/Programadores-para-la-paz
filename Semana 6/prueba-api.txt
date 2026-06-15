@@ -1,0 +1,13 @@
+la informacion que se envia es la siguiente al post
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+respuesta del post
+
+{
+    "estado": "Datos recibidos",
+    "nombre": "Maria",
+    "mensaje": "Hola comunidad"
+}

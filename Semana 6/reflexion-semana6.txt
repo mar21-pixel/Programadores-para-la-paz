@@ -1,0 +1,9 @@
+Es importante que las plataformas reciban y organicen de manera 
+automática desde el primer segundo. Si los ciudadanos enviaran reportes en texto libre, 
+cada quien redactaría a su manera, lo que obligaría a una persona a leerlos uno por uno para 
+poder clasificarlos, perdiendo mucho tiempo. Al recibir los datos de forma estructurada 
+mediante un formato estándar, el sistema puede identificar inmediatamente qué tipo de 
+problema es y en qué lugar ocurre. Esto hace posible que el reporte se asigne de forma 
+automática al área encargada, agilizando el tiempo de respuesta. Además, tener la información 
+ordenada facilita guardarla en bases de datos para generar estadísticas precisas y tomar mejores 
+decisiones sobre los problemas de la comunidad.
