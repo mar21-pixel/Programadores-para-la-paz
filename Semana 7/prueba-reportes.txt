@@ -1,0 +1,2 @@
+Al relizar la peticion GET, el servidor devuelve una lista con todos los reportes 
+que han sido enviado y guardados previamente a través del método POST en un ARRAY.

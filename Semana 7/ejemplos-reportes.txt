@@ -1,0 +1,11 @@
+Ejemplo 1:
+{
+  "tipo": "Seguridad",
+  "descripcion": "Los vecinos reportan que la alarma comunitaria de la cuadra principal no suena al activarla."
+}
+
+Ejemplo 2:
+{
+  "tipo": "Movilidad",
+  "descripcion": "Se presenta un semáforo dañado en la intersección de la avenida principal, generando congestión vehicular."
+}
