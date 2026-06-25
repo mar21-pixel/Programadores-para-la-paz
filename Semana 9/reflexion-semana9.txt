@@ -1,0 +1,8 @@
+La estabilidad y la seguridad en un servidor son los cimientos que sostienen 
+a cualquier plataforma comunitaria. El servidor debe ser estable para 
+garantizar que la página esté disponible siempre y no se caiga en cualquier momento. 
+De igual manera, configurar una seguridad robusta es vital para cuidar 
+los datos de los usuarios y evitar que personas malintencionadas intercepten 
+o roben información personal. Por lo tanto, asegurar que la plataforma sea 
+confiable y protegida no es solo un requerimiento técnico, sino la única forma 
+de garantizar que la comunidad tenga un espacio digital tranquilo y seguro para interactuar.

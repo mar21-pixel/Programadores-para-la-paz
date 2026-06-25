@@ -1,0 +1,19 @@
+Sistema operativo
+Es el software encargado de gestionar el hardware del equipo. Sirve 
+como intermediario entre los programas y el usuario para realizar tareas básicas de control.
+
+Node.js
+Es el entorno que permite la ejecución del código JavaScript directamente 
+en el computador o servidor. Permite que el sistema operativo lo entienda y pueda procesar solicitudes.
+
+Aplicación server.js
+Es el archivo de texto en donde escribes el código de tu plataforma. 
+Funciona como el cerebro de tu aplicación web, decidiendo qué lógica ejecutar cuando un usuario interactúa con ella.
+
+Puerto
+Es una dirección o "puerta virtual" numerada dentro de tu computador que permite redirigir el tráfico 
+a un servidor o aplicación. Asegura que las solicitudes que llegan a tu computadora vayan al programa correcto.
+
+Logs
+Son archivos que registran todo el historial de eventos, accesos y fallos que ocurren en la plataforma. 
+Sirven como la bitácora del programa para que puedas revisar qué pasó, a qué hora y cómo solucionar un error.
