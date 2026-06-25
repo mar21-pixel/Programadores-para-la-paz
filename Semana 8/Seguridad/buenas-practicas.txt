@@ -1,0 +1,5 @@
+
+1. Desconfiar de enlaces y archivos adjuntos.
+2. Usar conexiones segura
+3. Activar la Verificación en Dos Pasos
+

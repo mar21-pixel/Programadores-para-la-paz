@@ -1,0 +1,5 @@
+1. Roles definidos
+2. Rotacion de contraseña
+3. Autenticaciones fuertes
+4. Confirmacion por correo
+5. Bloqueo por intentos fallidos
