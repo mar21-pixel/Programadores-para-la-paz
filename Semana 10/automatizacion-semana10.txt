@@ -1,0 +1,10 @@
+¿Qué evento activa el flujo?
+Evento: actualización de estado de obra por el veedor.
+
+Acción: enviar mensaje a Telegram.
+
+¿Qué mensaje se enviaría a Telegram?
+Mensaje: "Atención: Se ha actualizado el avance de una obra. Consulta los detalles en el mapa comunitario."
+
+¿Qué información no debería enviarse por seguridad?
+Información que no debe enviarse: geolocalización exacta de residencias privadas aledañas, datos de identidad del veedor a cargo, costos financieros internos no aprobados o comentarios de disputas legales en curso

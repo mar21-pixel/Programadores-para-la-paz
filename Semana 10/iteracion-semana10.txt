@@ -1,0 +1,17 @@
+1. Implementar el formulario para que el ciudadano pueda reportar un problema de infraestructura.
+2. Configurar el flujo de n8n para capturar el reporte y enviar la notificación a Telegram.
+
+Son las más importantes porque definen el flujo principal y de mayor valor para el proyecto. 
+Si los ciudadanos no pueden registrar reportes en el sistema, no habrá datos reales para que los veedores trabajen, 
+ni eventos para activar la automatización.
+
+
+Para mí, significa que la funcionalidad es completamente operativa, segura,
+cumple con las expectativas reales de los usuarios.
+
+
+Definición de Terminado:
+
+1. El código funciona muy bien al ejecutarlo y al navegar por él.
+2. Los mensajes automáticos sí están llegando a las cuentas de Telegram.
+3. Se realizó el commit y se subió los cambios al repositorio.

@@ -1,0 +1,10 @@
+Permite que todos avancen al mismo ritmo y con total claridad. 
+Las metodologías ágiles divide los problemas grandes y tareas pequeñas, 
+Por otro lado, la automatización con n8n ahorra mucho tiempo  y esfuerzo, 
+ya que se encarga de enviar avisos por sí sola sin que una 
+persona tenga que escribir manualmente cada mensaje. Finalmente, al usar 
+Telegram, la información importante llega directo al celular de la gente 
+de manera inmediata y transparente. Esto genera mucha más confianza en 
+los vecinos, reduce los chismes o malos entendidos y motiva a que más 
+personas se involucren activamente al ver que los procesos de su barrio 
+son claros, ordenados y se mueven rápido.

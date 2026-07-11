@@ -1,0 +1,16 @@
+Como ciudadano 
+Quiero reportar problemas de infraestructura 
+Para que las autoridades correspondientes estén al tanto del daño y puedan gestionarlo.
+
+Como veedor 
+Quiero registrar una alerta sobre irregularidades 
+Para evidenciar el mal manejo de fondos.
+
+Como ciudadano
+Quiero registrar evidencia de las obras
+Para reportar el seguiento de estas
+
+Como veedor
+Quiero notificar a la ciudadania las actualizaciones de obras
+Para que esten al tanto del proceso de estas.
+
