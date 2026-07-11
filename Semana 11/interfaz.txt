@@ -1,0 +1,11 @@
+La interfaz tendrá en el panel lateral izquierdo una sección para crear reportes 
+con campos para el título, la descripción, la ubicación y el motivo.
+
+También incluirá una lista desplegable con todos los sectores y motivos predefinidos por 
+los cuales se levantará el reporte.
+
+Contará con un botón destacado para notificar automáticamente a los veedores más cercanos
+del área reportada apenas se publique.
+
+Toda la interfaz está diseñada para ser lo más intuitiva posible para el fácil manejo de los ciudadanos, 
+garantizando un entorno claro y sencillo.

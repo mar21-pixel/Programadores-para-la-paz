@@ -1,0 +1,21 @@
+Entidad 1: Alertas
+
+Campos principales:
+- Id
+- Titulo
+- Descripcion
+- EventoRelacionado
+- Involucrado
+
+Proposito:
+Notificar a los ciudadanos qué eventos están involucrados con la comunidad.
+
+
+Entidad 2: Obras
+
+Campos principales:
+- Id
+- NombreProyecto
+- SectorUbicacion
+- Presupuesto
+- EstadoActual

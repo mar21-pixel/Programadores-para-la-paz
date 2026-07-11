@@ -1,0 +1,9 @@
+1. ¿Qué es el login en una aplicación?
+R/ Permite el acceso a la aplicación si el usuario está registrado y permitido.
+
+2. ¿Por qué algunas rutas deben estar protegidas?
+R/ Porque no todos pueden tener acceso a rutas con información confidencial o privada; solo personas con un rol específico pueden ingresar.
+
+Plaintext
+3. ¿Qué tipo de información no debería exponerse públicamente?
+R/ Datos personales de los ciudadanos, credenciales de acceso e información confidencial de investigaciones o alertas en curso para proteger la identidad de las personas involucradas
