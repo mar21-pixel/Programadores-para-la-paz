@@ -1,0 +1,3 @@
+Evento: Actualización de la iniciativa.
+Mensaje: “La iniciativa ha alcanzado la meta de firmas para dar su comienzo”
+Información que no debe enviarse: Datos de los firmantes, Información técnica,Datos sensibles del encargado, comentarios sensibles o datos personales.

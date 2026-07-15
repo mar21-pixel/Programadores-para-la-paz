@@ -1,0 +1,9 @@
+Durante este curso comprendí que la tecnología es un puente fundamental para las comunidades.
+Aprendí que el diseño de software para la participación ciudadana debe enfocarse en darle un apoyo,
+brindarle herramientas que puedan usar para ayudar en su cominudad,  reduciendo la fricción para 
+que cualquier vecino pueda respaldar causas locales sin barreras técnicas.
+Asimismo, la integración de automatizaciones con n8n y notificaciones en canales 
+accesibles como Telegram mantiene informada a la comunidad en tiempo real, fortaleciendo el 
+tejido social y la transparencia. Finalmente, deja claro que la seguridad y la minimización 
+de datos son esenciales en estos sistemas para proteger la privacidad de los ciudadanos y construir 
+plataformas seguras y confiables.

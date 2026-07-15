@@ -1,0 +1,5 @@
+Un ciudadano levanta la iniciativa
+La iniciativa queda guardada en la base de datos.
+Otros ciudadanos pueden aprobar y apoyar la iniciativa.
+El sistema actualiza el proceso de la iniciativa.
+El sistema genera un documento PDF con la iniciativa y los apoyantes.
